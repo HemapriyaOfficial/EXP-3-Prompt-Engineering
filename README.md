@@ -1,4 +1,4 @@
-[prompt exp3.pdf](https://github.com/user-attachments/files/22130828/prompt.exp3.pdf)# EXP-3-PROMPT-ENGINEERING-
+## EXP-3-PROMPT-ENGINEERING-
 
 ## Aim: 
 Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: 
