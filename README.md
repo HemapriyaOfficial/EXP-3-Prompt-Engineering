@@ -1,4 +1,4 @@
-# EXP-3-PROMPT-ENGINEERING-
+[prompt exp3.pdf](https://github.com/user-attachments/files/22130828/prompt.exp3.pdf)# EXP-3-PROMPT-ENGINEERING-
 
 ## Aim: 
 Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: 
@@ -37,6 +37,10 @@ Conclude & Recommend – Identify which platform(s) perform best for the chosen 
 Conduct a detailed evaluation of prompting tools and strategies across major AI platforms in 2024, specifically ChatGPT (OpenAI), Claude (Anthropic), Bard/Gemini (Google), Cohere Command (Cohere), and Meta AI (LLaMA models). The report should be structured with the following sections: Aim (objective of evaluating prompting tools across these AI platforms), Methodology (basis of comparison such as platform features, prompting techniques, and evaluation criteria), Evaluation Metrics (efficiency, accuracy, creativity, adaptability, context handling, citation ability, etc.), Platform-by-Platform Evaluation (for each platform, provide an overview of prompting capabilities, supported prompting techniques like zero-shot, few-shot, chain-of-thought, role-based, and self-consistency, and strengths and weaknesses in handling these prompting styles), Comparative Analysis (a side-by-side comparison highlighting efficiency, accuracy, creativity, limitations, and unique advantages), Recommendations & Best Practices (guidelines for choosing and applying the right prompting strategy depending on task type and platform), and Conclusion (summarize key insights and future directions for prompting tools). The report should use clear section headings, include tables where suitable for comparisons, and present strengths and weaknesses in bullet points for clarity. Maintain a formal, analytical, and neutral tone, with a length target of approximately 2000–2500 words.
 
 ## Output
+[prompt exp3.pdf](https://github.com/user-attachments/files/22130830/prompt.exp3.pdf)
+
+
+
 
 ## Result
 Evaluating the comparison of 2024 prompting tools—ChatGPT, Claude, Bard, Cohere Command, and Meta—evaluates their performance, user experience, and response quality within a specific use case. Leading prompt engineering platforms like PromptLayer and PromptPerfect enhance these AIs’ capabilities by optimizing prompt creation, management, and output quality, ensuring effective AI-driven solutions.
